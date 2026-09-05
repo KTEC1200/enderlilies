@@ -1,0 +1,19 @@
+{
+  "baseUrl": "http://127.0.0.1:8642",
+  "apiKey": "80e036da8147ad2dd9290bb0306cbc68",
+  "model": "",
+  "transport": "auto",
+  "reasoningEffort": "medium",
+  "includeNoteContent": true,
+  "requestTimeoutMs": 120000,
+  "maxTabs": 5,
+  "workingFolder": "",
+  "autoApproveTools": false,
+  "userName": "",
+  "hermesHome": "D:\\Hermes\\data\\hermes-home",
+  "graphMaxNotes": 200,
+  "graphMinEdgeWeight": 0.1,
+  "graphIncludeWikilinks": true,
+  "markdownFormattingPromptEnabled": true,
+  "customSystemPrompt": ""
+}
