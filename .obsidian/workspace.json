@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "340aec3c590b214a",
+        "id": "46630e50db83ee44",
         "type": "tabs",
         "children": [
           {
-            "id": "f11f00b8c270bd5f",
+            "id": "58f0fa8f253cb513",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "entities/禁区的战士.md",
+                "file": "sources/剧情疑点与未解之谜的解释和推测.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "禁区的战士"
+              "title": "剧情疑点与未解之谜的解释和推测"
             }
           }
         ]
@@ -176,14 +176,23 @@
               "icon": "bot",
               "title": "Hermes Agent"
             }
+          },
+          {
+            "id": "fc5b477ab5b3b3c6",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -197,37 +206,38 @@
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "bases:新建数据库": false,
-      "workspaces:管理工作区布局": false
+      "workspaces:管理工作区布局": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f11f00b8c270bd5f",
+  "active": "58f0fa8f253cb513",
   "lastOpenFiles": [
-    "sources/ENDER LILIES 文本集.md",
-    "entities/古老民族.md",
-    "entities/格落特.md",
-    "concepts/白巫女.md",
-    "concepts/白教.md",
-    "entities/海尼尔.md",
-    "concepts/暗部.md",
-    "index.md",
     "queries/剧情疑点与未解之谜.md",
-    "events/事件时间线.md",
-    "log.md",
-    "events/莉莉的旅途与三个结局.md",
-    "events/王城之乱与国王的末路.md",
-    "events/禁区实验与人造白巫女.md",
-    "events/死亡之雨降临.md",
-    "events/双生堡垒防御战.md",
-    "events/古老民族战争与建国.md",
+    "entities/无头骑士.md",
+    "concepts/舞台与地点.md",
     "concepts/遗物宝具.md",
-    "concepts/不死骑士团.md",
-    "concepts/王之盾.md",
-    "concepts/魔术协会与国家魔术师团.md",
-    "concepts/不死契约与不死者.md",
-    "concepts/污秽与秽鬼.md",
-    "entities/禁区的战士.md",
+    "events/双生堡垒防御战.md",
+    "events/事件时间线.md",
+    "sources/剧情疑点与未解之谜的解释和推测.md",
+    "events/莉莉的旅途与三个结局.md",
+    "events/古老民族战争与建国.md",
+    "entities/尤利乌斯.md",
+    "entities/隐藏的实验体.md",
+    "entities/西丽德.md",
+    "entities/西丽亚.md",
+    "entities/都城的巫女.md",
+    "entities/第一代国王.md",
     "entities/半秽变的罪犯.md",
-    "entities/腐龙的孤儿.md",
+    "entities/白教区的莉莉.md",
+    "entities/贝尔.md",
+    "index.md",
+    "entities/狼.md",
+    "events/王城之乱与国王的末路.md",
+    "log.md",
+    "events/死亡之雨降临.md",
+    "events/禁区实验与人造白巫女.md",
+    "sources/ENDER LILIES 文本集.md",
+    "sources/ENDER LILIES 剧情补完.md",
     "events"
   ]
 }
